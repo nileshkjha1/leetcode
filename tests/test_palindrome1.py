@@ -1,4 +1,4 @@
-from PALINDROME1 import Solution
+from palindrome1 import Solution
 
 
 def test_palindrome_numbers():
